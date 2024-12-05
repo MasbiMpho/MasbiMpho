@@ -1,6 +1,75 @@
-<h2 align="center">Hello 👋! My name is Mpho Masibigiri and I am a DevOps Intern for CapaCiti</h2>
+<h1 align="center">Hello 👋! My name is Mpho Masibigiri and I am a DevOps Intern for CapaCiTi</h1>
 
 ###
+
+## 👨‍💻 About Me
+I'm a **Computer Science graduate** passionate about creating **user-centric applications**. With a solid foundation in programming languages like **Java**, **C#**, **C++**, **HTML/CSS**, and **Python**, I'm always looking to **adopt new technologies** to enhance user experiences. I'm analytical, detail-focused, and dedicated to producing high-quality results while meeting deadlines.
+
+I thrive in collaborative environments, particularly in **support roles**, where I can contribute to problem-solving, provide technical assistance, and work alongside others to build innovative solutions.
+
+## 🌟 What I Do
+- **Software Development**: Building user-friendly applications with a focus on clean code and scalability.
+- **Video Game Enthusiast**: Avid gamer with a passion for creating and analyzing game mechanics.
+- **Tech Enthusiast**: I love experimenting with the latest tech gadgets and exploring how technology is shaping industries like **gaming** and **automotive**.
+
+## 💼 Skills
+<h3 align="center">**Programming Languages**</h3>
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+</p>
+
+<h3 align="center">**Tools & Frameworks**</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" alt="Visual Studio">
+  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" alt="Eclipse">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/-Lucidchart-F6B040?style=flat&logo=lucidchart&logoColor=white" alt="Lucidchart">
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+</p>
+
+<h3 align="center">**Soft Skills**</h3>
+<p align="center">
+  🧠 **Problem-Solving** | ⏱ **Time Management** | 🤝 **Collaboration** | 🌱 **Adaptability** | 🎯 **Achievement-Oriented**
+</p>
+<br>
+<br>
+
+## 🚀 Interests
+- **Video Games**: Not just as a player but also exploring game design, mechanics, and how interactive media is evolving.
+- **Tech Gadgets**: Constantly exploring new gadgets and staying up-to-date with the latest trends in tech.
+- **Cars & Automotive Tech**: Fascinated by how **information technology** integrates with modern vehicles, including **electric cars**, **autonomous driving**, and **vehicle diagnostics**.
+
+## 🎓 Education
+- **University of Johannesburg**  
+  - Bachelor of Science: **Computer Science & Informatics**  
+  - Key Areas: Agile Programming, Android Development (C#), Data Structures, Software Development Life Cycle (Waterfall), Web Development (ASP.NET with C#)
+- **Divine Kingdom Academy**  
+  - Matric with strong performance in **Mathematics**, **English**, and **Computer Literacy**
+
+## 🏆 Awards & Certifications
+- **1st Year's Concert 2016** – Best Supporting Actor
+
+
+## 📫 Let's Connect!
+- **Work Email**: [Mpho.Masibigiri@capaciti.org.za](mailto:Mpho.Masibigiri@capaciti.org.za)
+- **Personal Email**: [Mpholin15@gmail.com](mailto:Mpholin15@gmail.com)
+- **Phone**: (+27)71-323-6894
+
+## 🌍 Fun Fact
+When I'm not coding, you can find me diving into new **gaming** trends or exploring how **technology** is transforming the **automotive industry**. I’m always eager to learn and innovate in both fields!
+
+<hr>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mpho-capaciti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -10,70 +79,4 @@
 
 ###
 
-<img align="right" height="150" src="https://mpho-capaciti.github.io/assets/img/ProfilePic.jpg"  />
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" height="30" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="30" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original-wordmark.svg" height="30" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="mailto:mpholin15@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mpho-lin-masibigiri" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:Mpho.Masibigiri@capaciti.org.za.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mpho-capaciti/mpho-capaciti/output/snake.svg" alt="Snake animation" />
-
-###
