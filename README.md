@@ -3,7 +3,7 @@
 ###
 
 ## 👨‍💻 About Me
-I'm a **Computer Science graduate** passionate about creating **user-centric applications**. With a solid foundation in programming languages like **Java**, **C#**, **C++**, **HTML/CSS**, and **Python**, I'm always looking to **adopt new technologies** to enhance user experiences. I'm analytical, detail-focused, and dedicated to producing high-quality results while meeting deadlines.
+I'm a **Computer Science graduate** passionate about creating **user-centric applications**. With a solid foundation in programming languages like **Java**, **C#**, **C++**, **HTML/CSS**, and **React**, I'm always looking to **adopt new technologies** to enhance user experiences. I'm analytical, detail-focused, and dedicated to producing high-quality results while meeting deadlines.
 
 I thrive in collaborative environments, particularly in **support roles**, where I can contribute to problem-solving, provide technical assistance, and work alongside others to build innovative solutions.
 
