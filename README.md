@@ -74,9 +74,9 @@ When I'm not coding, you can find me diving into new **gaming** trends or explor
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mpho-capaciti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MasbiMpho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true" height="150" alt="stats graph"  />
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mpho-capaciti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=blue-green&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MasbiMpho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=blue-green&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
